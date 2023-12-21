@@ -3,6 +3,7 @@ const UrLSchema = new mongoose.Schema(
     {
         LongUrL: String,
         ShortUrL: String,
+        YourName : String
     }
 );
 
